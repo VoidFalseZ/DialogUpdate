@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.1",
-  "min_required_version": "1.0.1",
+  "latest_version": "2.0.1",
+  "min_required_version": "2.0.1",
   "update_title": "New Update Available!",
   "update_message": "A new version of Inupoi Anime App is available with bug fixes and new features. Please update to continue enjoying the app.",
   "update_url": "https://www.youtube.com/@JustAWeeaboo",
-  "force_update": false
+  "force_update": true
 }
